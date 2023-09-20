@@ -6,7 +6,7 @@ simple library for telegram :|
 https://github.com/Zrexer/telecore
 ```
 
-# How Install & Import
+# How To Install & Import
 install:
 `pip install telecore`
 
